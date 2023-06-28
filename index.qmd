@@ -1,8 +1,10 @@
 ---
-title: "Nunnski_Blog"
+title: "Nunnski Blog"
 ---
 
 This is a Quarto website.
+
+Stuff.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
